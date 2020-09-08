@@ -7,4 +7,5 @@ As my test display is 32x8 on 4 display drivers it is currently limited to this 
 TODO
 ----
 Make total number of displays flexible
+
 Add another dimension to fullScreenImage so that animations can be stored
